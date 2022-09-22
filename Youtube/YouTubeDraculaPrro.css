@@ -1,10 +1,50 @@
+:root {
+  --bgColor: #22212c;
+  --selectionColor: #454158;
+  --buttonColor: #7970a9;
+  --textColor: #f8f8f2;
+}
 
+div#container.style-scope.ytd-masthead {
+  background-color: var(--bgColor);
+}
+
+div#guide-inner-content.style-scope.ytd-app {
+  background-color: var(--bgColor);
+}
+
+div#chips-wrapper.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background-color: var(--bgColor);
+}
+
+div#primary.style-scope.ytd-two-column-browse-results-renderer {
+  background-color: var(--bgColor);
+}
 
 yt-chip-cloud-chip-renderer.style-scope.ytd-feed-filter-chip-bar-renderer {
-    background-color: #7970a9;
-  }
-  
-  div {
-    background-color: #22212c;
-    color: #f8f8f2;
-  }
+  background-color: var(--buttonColor);
+}
+
+yt-chip-cloud-chip-renderer.style-scope.ytd-feed-filter-chip-bar-renderer.iron-selected {
+  background-color: var(--selectionColor);
+}
+
+iron-selector#chips.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background-color: var(--bgColor);
+}
+
+yt-formatted-string#text.style-scope.yt-chip-cloud-chip-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#video-title.style-scope.ytd-rich-grid-media {
+  color: var(--textColor);
+}
+
+yt-formatted-string.title.style-scope.ytd-guide-entry-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#guide-section-title.style-scope.ytd-guide-section-renderer {
+  color: var(--textColor);
+}

@@ -241,3 +241,15 @@ div#title.style-scope.ytd-rich-metadata-renderer {
 div#icon-label.style-scope.yt-dropdown-menu {
   color: var(--textColor);
 }
+
+div#details-container.style-scope.ytd-statement-banner-renderer {
+  background-color: var(--bgColor);
+}
+
+div#foreground-content.style-scope.ytd-statement-banner-renderer {
+  background-color: var(--bgColor);
+}
+
+ytd-button-renderer.style-scope.ytd-statement-banner-renderer.size-default {
+  background-color: var(--bgColor);
+}

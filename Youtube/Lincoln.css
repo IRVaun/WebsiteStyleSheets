@@ -1,0 +1,243 @@
+:root {
+  --bgColor: #2c2a21;
+  --selectionColor: #a99f70;
+  --buttonColor: #585441;
+  --textColor: #f8f8f2;
+}
+
+ytd-app {
+  background: var(--bgColor);
+}
+
+div#container.style-scope.ytd-masthead {
+  background-color: var(--bgColor);
+}
+
+div#guide-inner-content.style-scope.ytd-app {
+  background-color: var(--bgColor);
+}
+
+div#container.style-scope.ytd-searchbox {
+  background-color: var(--buttonColor);
+  color: var(--textColor);
+}
+
+span.style-scope.ytd-video-meta-block {
+  color: var(--textColor);
+}
+
+ytd-browse.style-scope.ytd-page-manager {
+  background-color: var(--bgColor);
+}
+
+yt-formatted-string#description-text.style-scope.ytd-video-renderer {
+  color: var(--textColor);
+}
+
+span#title.style-scope.ytd-shelf-renderer {
+  color: var(--textColor);
+}
+
+span#video-title.style-scope.ytd-reel-item-renderer {
+  color: var(--textColor);
+}
+
+ytd-text-header-renderer.style-scope.ytd-section-list-renderer {
+  color: var(--textColor);
+}
+
+div#title.style-scope.ytd-item-section-header-renderer {
+  color: var(--textColor);
+}
+
+span#title.style-scope.ytd-reel-shelf-renderer {
+  color: var(--textColor);
+}
+
+div#chips-wrapper.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background-color: var(--bgColor);
+}
+
+div#primary.style-scope.ytd-two-column-browse-results-renderer {
+  background-color: var(--bgColor);
+}
+
+yt-chip-cloud-chip-renderer.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background-color: var(--buttonColor);
+}
+
+yt-chip-cloud-chip-renderer.style-scope.ytd-feed-filter-chip-bar-renderer.iron-selected {
+  background-color: var(--selectionColor);
+}
+
+iron-selector#chips.style-scope.ytd-feed-filter-chip-bar-renderer {
+  background-color: var(--bgColor);
+}
+
+yt-formatted-string#text.style-scope.yt-chip-cloud-chip-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#video-title.style-scope.ytd-rich-grid-media {
+  color: var(--textColor);
+}
+
+yt-formatted-string.title.style-scope.ytd-guide-entry-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#guide-section-title.style-scope.ytd-guide-section-renderer {
+  color: var(--textColor);
+}
+
+ytd-search.style-scope.ytd-page-manager {
+  background-color: var(--bgColor);
+}
+
+ytd-expandable-metadata-renderer.style-scope.ytd-video-renderer {
+  background-color: var(--bgColor);
+}
+
+yt-formatted-string.style-scope.ytd-video-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string.style-scope.ytd-expandable-metadata-renderer {
+  color: var(--textColor);
+}
+
+ytd-destination-shelf-renderer.style-scope.ytd-item-section-renderer {
+  background-color: var(--bgColor);
+}
+
+ytd-destination-button-renderer.style-scope.ytd-destination-shelf-renderer {
+  background-color: var(--buttonColor);
+}
+
+yt-formatted-string#destination-label.style-scope.ytd-destination-button-renderer {
+  color: var(--textColor);
+}
+
+a#video-title.yt-simple-endpoint.style-scope.ytd-grid-video-renderer {
+  color: var(--textColor);
+}
+
+div#shorts-container.style-scope.ytd-shorts {
+  background-color: var(--bgColor);
+}
+
+div#secondary.style-scope.ytd-two-column-browse-results-renderer {
+  background-color: var(--bgColor);
+}
+
+ytd-playlist-sidebar-renderer.style-scope.ytd-browse {
+  background-color: var(--bgColor);
+}
+
+a#video-title.yt-simple-endpoint.style-scope.ytd-playlist-video-renderer {
+  color: var(--textColor);
+}
+
+div#channel-header.style-scope.ytd-c4-tabbed-header-renderer {
+  background-color: var(--bgColor);
+}
+
+div#tabs-inner-container.style-scope.ytd-c4-tabbed-header-renderer {
+  background-color: var(--bgColor);
+}
+
+div#primary-links.style-scope.ytd-c4-tabbed-header-renderer {
+  background-color: var(--bgColor);
+}
+
+yt-formatted-string#content-text.style-scope.ytd-backstage-post-renderer {
+  color: var(--textColor);
+}
+
+span.style-scope.ytd-backstage-post-renderer {
+  color: var(--textColor);
+}
+
+div.tab-content.style-scope.tp-yt-paper-tab {
+  color: var(--textColor);
+}
+
+span#title.style-scope.ytd-grid-channel-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string.subheadline.style-scope.ytd-channel-about-metadata-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#description.style-scope.ytd-channel-about-metadata-renderer {
+  color: var(--textColor);
+}
+
+span.style-scope.yt-formatted-string {
+  color: var(--textColor);
+}
+
+span#video-title.style-scope.ytd-grid-movie-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#text.style-scope.ytd-channel-name {
+  color: var(--textColor);
+}
+
+span#title.style-scope.ytd-rich-list-header-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#title.style-scope.ytd-topic-channel-details-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#title.style-scope.ytd-game-details-renderer {
+  color: var(--textColor);
+}
+
+ytd-settings-sidebar-renderer.style-scope.ytd-browse {
+  background-color: var(--bgColor);
+}
+
+yt-formatted-string.style-scope.ytd-video-primary-info-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#text.style-scope.ytd-toggle-button-renderer.style-text {
+  color: var(--textColor);
+}
+
+yt-formatted-string#text.style-scope.ytd-button-renderer.style-default.size-default {
+  color: var(--textColor);
+}
+
+span#video-title.style-scope.ytd-compact-video-renderer {
+  color: var(--textColor);
+}
+
+span.style-scope.ytd-comment-renderer {
+  color: var(--textColor);
+}
+
+yt-formatted-string#content-text.style-scope.ytd-comment-renderer {
+  color: var(--textColor);
+}
+
+div#body.style-scope.ytd-comment-renderer {
+  background-color: var(--bgColor);
+}
+
+a#endpoint-link.yt-simple-endpoint.style-scope.ytd-rich-metadata-renderer {
+  background-color: var(--bgColor);
+}
+
+div#title.style-scope.ytd-rich-metadata-renderer {
+  color: var(--textColor);
+}
+
+div#icon-label.style-scope.yt-dropdown-menu {
+  color: var(--textColor);
+}

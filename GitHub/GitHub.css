@@ -1,4 +1,9 @@
 body {
-  background-color: #22212c;
-  color: #f8f8f2;
+  background: #22212c;
+  color: #ff80bf;
+}
+
+div#application-main {
+  background: #22212c;
+  color: #ff80bf;
 }

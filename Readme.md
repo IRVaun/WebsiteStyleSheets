@@ -1,4 +1,4 @@
-# Custom webpage styling
+# Custom webpage styling for Microsoft Edge
 
 ## Installation
 

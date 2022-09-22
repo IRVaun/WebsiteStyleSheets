@@ -1,13 +1,83 @@
+Pro {
+    color: #22212c; /*Background*/
+    color: #7970a9; /*Comment*/
+    color: #454158; /*Selection*/
+    color: #f8f8f2; /*Foreground*/
+    color: #9580ff; /*Purple*/
+    color: #8aff80; /*Green*/
+    color: #ffca80; /*Orange*/
+    color: #ff80bf; /*Pink*/
+    color: #80ffea; /*Cyan*/
+    color: #ff9580; /*Red*/
+    color: #ffff80; /*Yellow*/
+}
+
+Blade {
+    color: #212c2a; /*Background*/
+    color: #70a99f; /*Comment*/
+    color: #415854; /*Selection*/
+    color: #f8f8f2; /*Foreground*/
+    color: #9580ff; /*Purple*/
+    color: #8aff80; /*Green*/
+    color: #ffca80; /*Orange*/
+    color: #ff80bf; /*Pink*/
+    color: #80ffea; /*Cyan*/
+    color: #ff9580; /*Red*/
+    color: #ffff80; /*Yellow*/
+}
+
+Buffy {
+    color: #2a212c; /*Background*/
+    color: #9f70a9; /*Comment*/
+    color: #544158; /*Selection*/
+    color: #f8f8f2; /*Foreground*/
+    color: #9580ff; /*Purple*/
+    color: #8aff80; /*Green*/
+    color: #ffca80; /*Orange*/
+    color: #ff80bf; /*Pink*/
+    color: #80ffea; /*Cyan*/
+    color: #ff9580; /*Red*/
+    color: #ffff80; /*Yellow*/
+}
+
+Lincoln {
+    color: #2c2a21; /*Background*/
+    color: #a99f70; /*Comment*/
+    color: #585441; /*Selection*/
+    color: #f8f8f2; /*Foreground*/
+    color: #9580ff; /*Purple*/
+    color: #8aff80; /*Green*/
+    color: #ffca80; /*Orange*/
+    color: #ff80bf; /*Pink*/
+    color: #80ffea; /*Cyan*/
+    color: #ff9580; /*Red*/
+    color: #ffff80; /*Yellow*/
+}
+
+Morbius {
+    color: #2c2122; /*Background*/
+    color: #a97079; /*Comment*/
+    color: #584145; /*Selection*/
+    color: #f8f8f2; /*Foreground*/
+    color: #9580ff; /*Purple*/
+    color: #8aff80; /*Green*/
+    color: #ffca80; /*Orange*/
+    color: #ff80bf; /*Pink*/
+    color: #80ffea; /*Cyan*/
+    color: #ff9580; /*Red*/
+    color: #ffff80; /*Yellow*/
+}
+
 Van Helsing {
-    color: #0b0d0f;
-    color: #708ca9;
-    color: #414d58;
-    color: #f8f8f2;
-    color: #9580ff;
-    color: #8aff80;
-    color: #ffca80;
-    color: #ff80bf;
-    color: #80ffea;
-    color: #ff9580;
-    color: #ffff80;
+    color: #0b0d0f; /*Background*/
+    color: #708ca9; /*Comment*/
+    color: #414d58; /*Selection*/
+    color: #f8f8f2; /*Foreground*/
+    color: #9580ff; /*Purple*/
+    color: #8aff80; /*Green*/
+    color: #ffca80; /*Orange*/
+    color: #ff80bf; /*Pink*/
+    color: #80ffea; /*Cyan*/
+    color: #ff9580; /*Red*/
+    color: #ffff80; /*Yellow*/
 }

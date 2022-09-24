@@ -1,0 +1,107 @@
+html,
+body {
+  background-image: none !important;
+  background-color: #22212c !important;
+}
+
+body * {
+  color: #f8f8f2 !important;
+  background-color: #22212c !important;
+}
+
+a,
+a * {
+  color: #8aff80 !important;
+  background-color: transparent !important;
+}
+
+a:hover,
+a:hover *,
+a:visited:hover,
+a:visited:hover *,
+span[onclick]:hover,
+div[onclick]:hover,
+[role="link"]:hover,
+[role="link"]:hover *,
+[role="button"]:hover *,
+[role="menuitem"]:hover,
+[role="menuitem"]:hover *,
+.link:hover,
+.link:hover * {
+  color: #ffff80 !important;
+}
+
+a:visited,
+a:visited * {
+  color: #7970a9 !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+strong,
+[id*="headline"],
+[class*="headline"],
+[id*="header"],
+[class*="header"],
+[class*="header"] td {
+  color: #ffca80 !important;
+}
+
+table {
+  background-color: #22212c !important;
+}
+
+[id*="overlay"],
+[id*="lightbox"],
+blockquote {
+  background-color: #454158 !important;
+}
+
+pre,
+dl {
+  background-color: #454158 !important;
+}
+
+input,
+select,
+button,
+[role="button"],
+a.button,
+a.submit,
+a.BigButton,
+a.TabLink,
+.install[onclick] {
+  text-indent: 5px;
+  appearance: none !important;
+  -moz-appearance: none !important;
+  -webkit-appearance: none !important;
+  background: #454158 !important;
+}
+
+textarea {
+  appearance: none !important;
+  -moz-appearance: none !important;
+  -webkit-appearance: none !important;
+  background: #454158 !important;
+}
+
+div,
+ul,
+li {
+  background-image: none !important;
+}
+
+a.highlight,
+a.highlight *,
+a.active,
+a.active *,
+.selected,
+.selected *,
+[href="#"] {
+  font-weight: bold !important;
+  color: #80ffea !important;
+}
